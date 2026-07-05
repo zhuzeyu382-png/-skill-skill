@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 设计分析"
+  short_description: "从产品视角系统拆解 Skill 结构、流程与设计巧思"
+  default_prompt: "Use $analyze-skill-design 分析这个 Skill 的产品设计、工作流和资源结构。"
